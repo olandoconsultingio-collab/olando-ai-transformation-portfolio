@@ -1,0 +1,8 @@
+{
+  "name": "olando-ai-transformation-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node -e \"console.log('Static portfolio is ready in dist')\""
+  }
+}
